@@ -8,5 +8,4 @@ $con = mysql_connect($host,$sqlname,$sqlpass);		//连接数据库
 mysql_select_db($sqldb);						//选择数据库
 
 mysql_query("set names 'utf8'");					//设置编码格式
-
 ?>
