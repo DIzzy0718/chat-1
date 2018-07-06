@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+   @font-face {
+	font-family: '方正喵呜体';
+	src: url('方正喵呜体.eot'); /* IE9 Compat Modes */
+	src: url('方正喵呜体.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+             url('方正喵呜体.woff') format('woff'), /* Modern Browsers */
+             url('方正喵呜体.ttf')  format('truetype'), /* Safari, Android, iOS */
+             url('方正喵呜体.svg#方正喵呜体') format('svg'); /* Legacy iOS */
+   }
